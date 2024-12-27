@@ -1,6 +1,3 @@
-<?php 
-include 'API-AlexHosting.net/UserAgent.php';
-include 'API-AlexHosting.net/daerah.php';
 
 // MENANGKAP DATA YANG DI-INPUT
 $email = $_POST['email'];
